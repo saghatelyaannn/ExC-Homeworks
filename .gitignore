@@ -1,29 +1,11 @@
-# Neovim swap files
 *.swp
-
-# Neovim session files
 Session.vim
-
-# Neovim undo files
 *.un~
-
-# Neovim backup files
 *.bak
-
-# Neovim directory for persistent undo
 .undo/
-
-# Neovim directory for session management
 .sessions/
-
-# Neovim directory for views
 .view/
-
-# Neovim directory for shada files
 .shada/
-
-# Neovim directory for swap files
 .swap/
-
 *~
 *.out
